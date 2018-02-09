@@ -1,5 +1,5 @@
 ## annotation-2-markdown
-一个支持在Java注释中使用markdown语法的插件
+一个支持在Java注释中使用markdown语法的maven插件
 
 ### install
 ```
